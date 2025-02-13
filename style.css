@@ -20,7 +20,7 @@ h3{
     padding: 5px 0;
     margin: 0;
 }
-#hero{
+/* #hero{
     background: url(assets/Mobile-hero.png);
     width: 600px;
     background-size: contain;
@@ -28,7 +28,7 @@ h3{
     height: 59vh;
     background-repeat: no-repeat;
     position: relative;
-}
+} */
 .bg-blue{
     background-color: #223367;
     color: #fff;
